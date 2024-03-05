@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39639a0e-3a27-4774-84a7-d9275f3596a3": {
+      "ProjectGuid": "39639a0e-3a27-4774-84a7-d9275f3596a3",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 0
+    },
+    "af5d8c8a-7684-4e4c-845e-0bebcc4f36f4": {
+      "ProjectGuid": "af5d8c8a-7684-4e4c-845e-0bebcc4f36f4",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "0151adda-121e-4969-a6b5-850ef790fea8": {
+      "ProjectGuid": "0151adda-121e-4969-a6b5-850ef790fea8",
+      "DisplayName": "DtoLayer",
+      "ColorIndex": 2
+    },
+    "98c8aff6-1331-47d1-823e-21d428724655": {
+      "ProjectGuid": "98c8aff6-1331-47d1-823e-21d428724655",
+      "DisplayName": "BlogAPI",
+      "ColorIndex": 3
+    },
+    "4d611609-880b-412b-9687-0eb80129f8d4": {
+      "ProjectGuid": "4d611609-880b-412b-9687-0eb80129f8d4",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
